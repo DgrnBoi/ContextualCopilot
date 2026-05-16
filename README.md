@@ -121,3 +121,4 @@ ContextualCopilot/
 ## 📄 License
 
 MIT — Built for hackathon glory 🏆
+# CodeGraph
